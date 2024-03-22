@@ -1,0 +1,43 @@
+    body {
+        background-color: black;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .heading {
+        font-size: 50px;
+        color: white;
+        text-align: center;
+        font-weight: normal;
+    }
+
+    #link {
+        color: aquamarine;
+        font-size: 16px;
+    }
+
+    #heading {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 300;
+        font-size: 42px;
+        color: white;
+    }
+
+    .paragraph {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 21px;
+        color: gray;
+    }
+
+    #logo {
+        position: relative;
+        top: 120px;
+        right: 32.5%;
+    }
+
+    #tent {
+        position: relative;
+    }
+
+    
+
