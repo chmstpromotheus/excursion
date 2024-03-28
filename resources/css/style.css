@@ -21,6 +21,7 @@
         font-weight: 300;
         font-size: 42px;
         color: white;
+        
     }
 
     .paragraph {
@@ -29,15 +30,14 @@
         color: gray;
     }
 
-    #logo {
-        position: relative;
-        top: 120px;
-        right: 32.5%;
+    #paragraph {
+        color: grey;
+        text-align: right;
     }
 
-    #tent {
-        position: relative;
-    }
+
+
+    
 
     
 
